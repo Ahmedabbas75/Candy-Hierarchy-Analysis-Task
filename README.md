@@ -24,6 +24,16 @@ ____________________________________________________________________________
 ____________________________________________________________________________
 ## 3- Conclusion
 - Reached Results from Questions
-  1. 
+  - Most people aren't going out
+  - Male is the most common gender
+  - Most people who did the survey were between 35 and 50
+  - Most countries from USA and Canada
+  - Most people like dress white and gold
+  - Most people preferred friday
+  - Science is the most website checked out
+  - Full-sized candy bar is the most loved candy
+  - Broken glow stick is the most hated candy
+
+- Reached Results from Bivariate Questions
 
 
