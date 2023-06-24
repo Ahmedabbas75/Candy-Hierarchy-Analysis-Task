@@ -5,11 +5,11 @@ ____________________________________________________________________________
 - General Questions related to the existence of
   - missing values?
   - wrong datatypes for columns?
-  3. complete duplicates in the data?
-  4. outliers in each column?
-  5. changed the column names?
-  6. wrong range of values?
-  7. columns dropped it?
+  - complete duplicates in the data?
+  - outliers in each column?
+  - changed the column names?
+  - wrong range of values?
+  - columns dropped it?
 
 - Questions raised during analysis
   1. Most people go out or not?
