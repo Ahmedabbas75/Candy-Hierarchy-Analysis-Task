@@ -34,6 +34,6 @@ ____________________________________________________________________________
   - Full-sized candy bar is the most loved candy
   - Broken glow stick is the most hated candy
 
-🔔 ### In future I will do more analysis
+### 🔔 In future I will do more analysis
 
 
