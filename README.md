@@ -3,8 +3,8 @@ This is the official survey form for the 2017 Candy Hierarchy. All data collecte
 ____________________________________________________________________________
 ## 2- In Mind Questions
 - General Questions related to the existence of
-  - 1. missing values?
-  2. wrong datatypes for columns?
+  - missing values?
+  - wrong datatypes for columns?
   3. complete duplicates in the data?
   4. outliers in each column?
   5. changed the column names?
