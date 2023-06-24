@@ -12,7 +12,7 @@ ____________________________________________________________________________
   - columns dropped it?
 
 - Questions raised during analysis
-  - Most people `go out` or not?
+  - Most people `going out` or not?
   - What is most common `gender`?
   - What is mean of people `age` did the survey?
   - What is most `nationality` of people did the survey?
