@@ -12,15 +12,15 @@ ____________________________________________________________________________
   - columns dropped it?
 
 - Questions raised during analysis
-  1. Most people go out or not?
-  2. What is most common gender?
-  3. What is mean of people age did the survey?
-  4. What is most nationality of people did the survey?
-  5. What is most dress color people prefer that?
-  6. What is day most people prefer that?
-  7. What is most website checked out?
-  8. What is the most loved candy?
-  9. What is the most hated candy?
+  - Most people go out or not?
+  - What is most common gender?
+  - What is mean of people age did the survey?
+  - What is most nationality of people did the survey?
+  - What is most dress color people prefer that?
+  - What is day most people prefer that?
+  - What is most website checked out?
+  - What is the most loved candy?
+  - What is the most hated candy?
 ____________________________________________________________________________
 ## 3- Conclusion
 - Reached Results from Questions
