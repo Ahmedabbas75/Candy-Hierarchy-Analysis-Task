@@ -12,15 +12,15 @@ ____________________________________________________________________________
   - columns dropped it?
 
 - Questions raised during analysis
-  - Most people go out or not?
-  - What is most common gender?
-  - What is mean of people age did the survey?
-  - What is most nationality of people did the survey?
-  - What is most dress color people prefer that?
-  - What is day most people prefer that?
-  - What is most website checked out?
-  - What is the most loved candy?
-  - What is the most hated candy?
+  - Most people `go out` or not?
+  - What is most common `gender`?
+  - What is mean of people `age` did the survey?
+  - What is most `nationality` of people did the survey?
+  - What is most `dress color` people prefer that?
+  - What is `day` most people prefer that?
+  - What is most `website` checked out?
+  - What is the most `loved` candy?
+  - What is the most `hated` candy?
 ____________________________________________________________________________
 ## 3- Conclusion
 - Reached Results from Questions
@@ -34,6 +34,6 @@ ____________________________________________________________________________
   - Full-sized candy bar is the most loved candy
   - Broken glow stick is the most hated candy
 
-### 🔔 In future I will do more analysis
+### 🔔 `In future I will do more analysis`
 
 
