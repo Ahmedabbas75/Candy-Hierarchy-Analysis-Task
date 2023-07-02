@@ -11,7 +11,7 @@ ____________________________________________________________________________
   - wrong range of values?
   - columns dropped it?
 
-- Questions raised during analysis
+- ### Questions raised during analysis
   - Most people `going out` or not?
   - What is most common `gender`?
   - What is mean of people `age` did the survey?
@@ -23,7 +23,7 @@ ____________________________________________________________________________
   - What is the most `hated` candy?
 ____________________________________________________________________________
 ## 3- Conclusion
-- Reached Results from Questions
+- ### Reached Results from Questions
   - Most people `aren't going out`
   - `Male` is the most common gender
   - Most people who did the survey `age` between `35 and 50`
