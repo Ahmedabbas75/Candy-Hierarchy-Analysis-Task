@@ -2,7 +2,7 @@
 This is the official survey form for the 2017 Candy Hierarchy. All data collected is anonymous and will be shared with the public as a raw spreadsheet (xml) file. This data is not intended for research purposes, but rather for the writing of a satirical/humour creative non­fiction science piece to be published at BoingBoing.
 ____________________________________________________________________________
 ## 2- In Mind Questions
-- General Questions related to the existence of
+- ### General Questions related to the existence of
   - missing values?
   - wrong datatypes for columns?
   - complete duplicates in the data?
