@@ -34,6 +34,8 @@ ____________________________________________________________________________
   - `Full-sized candy bar` is the most loved candy
   - `Broken glow stick` is the most hated candy
 
-### 💡Summary
-- 
+## 💡Summary
+- ###My main goal was to clean the data so that there are no missing values or duplicates.during that
+- I saw the most and the least loved candy , The most preferred day , how do most of people see the dress and what media site people would prefer to enter.
+- Most people who made this survey are male most people are not going out the average age for those who take the survey is 42 years old most of people who done this survey are from US
 
